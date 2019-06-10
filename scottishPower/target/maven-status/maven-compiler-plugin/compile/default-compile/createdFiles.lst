@@ -1,0 +1,10 @@
+main\java\rest\resource\MeterResource.class
+main\java\rest\domain\Identifiable.class
+main\java\rest\Application.class
+main\java\rest\repo\MeterRepo.class
+main\java\rest\repo\IdGenerator.class
+main\java\rest\resource\ResourceAssembler.class
+main\java\rest\resource\MeterResourceAssembler.class
+main\java\rest\domain\Meter.class
+main\java\rest\controller\MeterController.class
+main\java\rest\repo\InMemoryRepo.class

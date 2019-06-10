@@ -1,0 +1,10 @@
+C:\workspace\scottishPower\src\main\java\main\java\rest\domain\Identifiable.java
+C:\workspace\scottishPower\src\main\java\main\java\rest\domain\Meter.java
+C:\workspace\scottishPower\src\main\java\main\java\rest\resource\MeterResource.java
+C:\workspace\scottishPower\src\main\java\main\java\rest\repo\IdGenerator.java
+C:\workspace\scottishPower\src\main\java\main\java\rest\repo\MeterRepo.java
+C:\workspace\scottishPower\src\main\java\main\java\rest\controller\MeterController.java
+C:\workspace\scottishPower\src\main\java\main\java\rest\repo\InMemoryRepo.java
+C:\workspace\scottishPower\src\main\java\main\java\rest\resource\ResourceAssembler.java
+C:\workspace\scottishPower\src\main\java\main\java\rest\Application.java
+C:\workspace\scottishPower\src\main\java\main\java\rest\resource\MeterResourceAssembler.java
